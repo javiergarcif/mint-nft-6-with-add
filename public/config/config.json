@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xFDD37745cAcadA63D4c42cE29DafBAfe3f4831b5",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xFDD37745cAcadA63D4c42cE29DafBAfe3f4831b5",
+  "CONTRACT_ADDRESS": "0xe99aaD0c1e8966cC76C1193a836e824174494B7B",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xe99aaD0c1e8966cC76C1193a836e824174494B7B",
   "NETWORK": {
     "NAME": "Polygon Testnet",
     "SYMBOL": "MATIC",
     "ID": 80001
   },
-  "NFT_NAME": "MINT TRY",
-  "SYMBOL": "MTRY",
-  "MAX_SUPPLY": 500,
-  "WEI_COST": 5000000000000000,
-  "DISPLAY_COST": 0.005,
+  "NFT_NAME": "NFT TRY 2",
+  "SYMBOL": "NTRY2",
+  "MAX_SUPPLY": 200,
+  "WEI_COST": 100000000000000,
+  "DISPLAY_COST": 0.0001,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/mint-try-v2",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/nft-try-2",
   "SHOW_BACKGROUND": true
 }
